@@ -1,0 +1,11 @@
+C:\Users\MSI\source\repos\scolarité\SharedDAOProject\bin\Debug\net8.0\SharedDAOProject.deps.json
+C:\Users\MSI\source\repos\scolarité\SharedDAOProject\bin\Debug\net8.0\SharedDAOProject.dll
+C:\Users\MSI\source\repos\scolarité\SharedDAOProject\bin\Debug\net8.0\SharedDAOProject.pdb
+C:\Users\MSI\source\repos\scolarité\SharedDAOProject\obj\Debug\net8.0\SharedDAOProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI\source\repos\scolarité\SharedDAOProject\obj\Debug\net8.0\SharedDAOProject.AssemblyInfoInputs.cache
+C:\Users\MSI\source\repos\scolarité\SharedDAOProject\obj\Debug\net8.0\SharedDAOProject.AssemblyInfo.cs
+C:\Users\MSI\source\repos\scolarité\SharedDAOProject\obj\Debug\net8.0\SharedDAOProject.csproj.CoreCompileInputs.cache
+C:\Users\MSI\source\repos\scolarité\SharedDAOProject\obj\Debug\net8.0\SharedDAOProject.dll
+C:\Users\MSI\source\repos\scolarité\SharedDAOProject\obj\Debug\net8.0\refint\SharedDAOProject.dll
+C:\Users\MSI\source\repos\scolarité\SharedDAOProject\obj\Debug\net8.0\SharedDAOProject.pdb
+C:\Users\MSI\source\repos\scolarité\SharedDAOProject\obj\Debug\net8.0\ref\SharedDAOProject.dll

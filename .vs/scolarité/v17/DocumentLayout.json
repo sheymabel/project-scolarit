@@ -1,0 +1,137 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MSI\\source\\repos\\scolarit\u00E9\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{17C90415-2AA4-4F19-BED4-2577822A6530}|scolarit\u00E9\\scolarit\u00E9.csproj|c:\\users\\msi\\source\\repos\\scolarit\u00E9\\scolarit\u00E9\\usercontrol1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{17C90415-2AA4-4F19-BED4-2577822A6530}|scolarit\u00E9\\scolarit\u00E9.csproj|solutionrelative:scolarit\u00E9\\usercontrol1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC0AB406-87E6-4C32-9AC0-5B4FE55A3D8C}|DAOProject\\DAOProject.csproj|c:\\users\\msi\\source\\repos\\scolarit\u00E9\\daoproject\\amplietudiant\\ietudiant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC0AB406-87E6-4C32-9AC0-5B4FE55A3D8C}|DAOProject\\DAOProject.csproj|solutionrelative:daoproject\\amplietudiant\\ietudiant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3D66EB6-0614-4CBA-98A7-727204AABD02}|SharedDAOProject\\SharedDAOProject.csproj|c:\\users\\msi\\source\\repos\\scolarit\u00E9\\shareddaoproject\\idao\\idaoetudiant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3D66EB6-0614-4CBA-98A7-727204AABD02}|SharedDAOProject\\SharedDAOProject.csproj|solutionrelative:shareddaoproject\\idao\\idaoetudiant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3D66EB6-0614-4CBA-98A7-727204AABD02}|SharedDAOProject\\SharedDAOProject.csproj|c:\\users\\msi\\source\\repos\\scolarit\u00E9\\shareddaoproject\\entity\\etudiant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3D66EB6-0614-4CBA-98A7-727204AABD02}|SharedDAOProject\\SharedDAOProject.csproj|solutionrelative:shareddaoproject\\entity\\etudiant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3D66EB6-0614-4CBA-98A7-727204AABD02}|SharedDAOProject\\SharedDAOProject.csproj|c:\\users\\msi\\source\\repos\\scolarit\u00E9\\shareddaoproject\\shareddaoproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A3D66EB6-0614-4CBA-98A7-727204AABD02}|SharedDAOProject\\SharedDAOProject.csproj|solutionrelative:shareddaoproject\\shareddaoproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC0AB406-87E6-4C32-9AC0-5B4FE55A3D8C}|DAOProject\\DAOProject.csproj|c:\\users\\msi\\source\\repos\\scolarit\u00E9\\daoproject\\daoproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CC0AB406-87E6-4C32-9AC0-5B4FE55A3D8C}|DAOProject\\DAOProject.csproj|solutionrelative:daoproject\\daoproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserControl1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\MSI\\source\\repos\\scolarit\u00E9\\scolarit\u00E9\\UserControl1.cs",
+              "RelativeDocumentMoniker": "scolarit\u00E9\\UserControl1.cs",
+              "ToolTip": "C:\\Users\\MSI\\source\\repos\\scolarit\u00E9\\scolarit\u00E9\\UserControl1.cs [Design]",
+              "RelativeToolTip": "scolarit\u00E9\\UserControl1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T10:26:00.227Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IEtudiant.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\source\\repos\\scolarit\u00E9\\DAOProject\\AmpliEtudiant\\IEtudiant.cs",
+              "RelativeDocumentMoniker": "DAOProject\\AmpliEtudiant\\IEtudiant.cs",
+              "ToolTip": "C:\\Users\\MSI\\source\\repos\\scolarit\u00E9\\DAOProject\\AmpliEtudiant\\IEtudiant.cs",
+              "RelativeToolTip": "DAOProject\\AmpliEtudiant\\IEtudiant.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAAA0AAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T09:51:01.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DAOProject",
+              "DocumentMoniker": "C:\\Users\\MSI\\source\\repos\\scolarit\u00E9\\DAOProject\\DAOProject.csproj",
+              "RelativeDocumentMoniker": "DAOProject\\DAOProject.csproj",
+              "ToolTip": "C:\\Users\\MSI\\source\\repos\\scolarit\u00E9\\DAOProject\\DAOProject.csproj",
+              "RelativeToolTip": "DAOProject\\DAOProject.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-25T09:47:03.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Etudiant.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\source\\repos\\scolarit\u00E9\\SharedDAOProject\\Entity\\Etudiant.cs",
+              "RelativeDocumentMoniker": "SharedDAOProject\\Entity\\Etudiant.cs",
+              "ToolTip": "C:\\Users\\MSI\\source\\repos\\scolarit\u00E9\\SharedDAOProject\\Entity\\Etudiant.cs",
+              "RelativeToolTip": "SharedDAOProject\\Entity\\Etudiant.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAewAgAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T09:38:56.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IDAOEtudiant.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\source\\repos\\scolarit\u00E9\\SharedDAOProject\\IDAO\\IDAOEtudiant.cs",
+              "RelativeDocumentMoniker": "SharedDAOProject\\IDAO\\IDAOEtudiant.cs",
+              "ToolTip": "C:\\Users\\MSI\\source\\repos\\scolarit\u00E9\\SharedDAOProject\\IDAO\\IDAOEtudiant.cs",
+              "RelativeToolTip": "SharedDAOProject\\IDAO\\IDAOEtudiant.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T09:36:41.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SharedDAOProject",
+              "DocumentMoniker": "C:\\Users\\MSI\\source\\repos\\scolarit\u00E9\\SharedDAOProject\\SharedDAOProject.csproj",
+              "RelativeDocumentMoniker": "SharedDAOProject\\SharedDAOProject.csproj",
+              "ToolTip": "C:\\Users\\MSI\\source\\repos\\scolarit\u00E9\\SharedDAOProject\\SharedDAOProject.csproj",
+              "RelativeToolTip": "SharedDAOProject\\SharedDAOProject.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-25T09:23:22.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
